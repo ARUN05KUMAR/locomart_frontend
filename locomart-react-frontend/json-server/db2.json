@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "productName": "Cough Syrup",
+      "description": "Soothes sore throat and cough.",
+      "expiryDate": "2026-01-20",
+      "quantity": 50,
+      "price": 7.99,
+      "countryOfOrigin": "India"
+    },
+    {
+      "id": "a583",
+      "productName": "Milk",
+      "description": "Good for health",
+      "expiryDate": "2025-05-09",
+      "quantity": "10",
+      "price": "500",
+      "countryOfOrigin": "Lawspet"
+    }
+  ]
+}

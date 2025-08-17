@@ -1,0 +1,60 @@
+{
+    "vendors":[
+        {
+          "id": 101,
+          "shopname": "Fresh Farm Organics",
+          "rating": 4.5,
+          "email": "freshfarm@example.com",
+          "address": "123 Green Street, Sector 45",
+          "city": "Chennai",
+          "contact": "+91-9876543210",
+          "vendor_type": "Organic Products",
+          "joined_date": "2022-05-12"
+        },
+        {
+          "id": 102,
+          "shopname": "Techie Gadgets",
+          "rating": 4.2,
+          "email": "techiegadgets@gmail.com",
+          "address": "77 Silicon Avenue, Electronic City",
+          "city": "Bangalore",
+          "contact": "+91-9823471234",
+          "vendor_type": "Electronics",
+          "joined_date": "2021-11-08"
+        },
+        {
+          "id": 103,
+          "shopname": "Urban Style Fashion",
+          "rating": 4.8,
+          "email": "urbanstyle@fashionhub.com",
+          "address": "15 MG Road, Near City Mall",
+          "city": "Mumbai",
+          "contact": "+91-9765432100",
+          "vendor_type": "Clothing & Apparel",
+          "joined_date": "2023-01-19"
+        },
+        {
+          "id": 104,
+          "shopname": "Kitchen Pro Essentials",
+          "rating": 4.3,
+          "email": "support@kitchenpro.in",
+          "address": "Flat No. 14B, Sudha Enclave, Anna Nagar",
+          "city": "Coimbatore",
+          "contact": "+91-9442271188",
+          "vendor_type": "Home & Kitchen",
+          "joined_date": "2022-03-30"
+        },
+        {
+          "id": 105,
+          "shopname": "Book Haven",
+          "rating": 4.9,
+          "email": "bookhaven.store@gmail.com",
+          "address": "Opp. University Gate, Knowledge Road",
+          "city": "Pune",
+          "contact": "+91-9090912345",
+          "vendor_type": "Books & Stationery",
+          "joined_date": "2020-07-25"
+        }
+      ]
+      
+}

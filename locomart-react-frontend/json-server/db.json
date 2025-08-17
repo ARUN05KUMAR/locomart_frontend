@@ -1,0 +1,292 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Aarokya Milk",
+      "type": "milk",
+      "quantity": "500 ml",
+      "price": "23",
+      "description": "Fresh and pure cow's milk from Aarokya, known for its rich taste and quality assurance.",
+      "vendor_id": 101
+    },
+    {
+      "id": 2,
+      "name": "Ammaiyar Milk",
+      "type": "milk",
+      "quantity": "500 ml",
+      "price": "25",
+      "description": "Locally sourced milk from Ammaiyar brand, ensuring freshness and traditional dairy values.",
+      "vendor_id": 102
+    },
+    {
+      "id": 3,
+      "name": "Heritage Milk",
+      "type": "milk",
+      "quantity": "1 litre",
+      "price": "44",
+      "description": "Full cream milk from Heritage, ideal for daily use and packed with nutrients.",
+      "vendor_id": 103
+    },
+    {
+      "id": 4,
+      "name": "Aavin Milk",
+      "type": "milk",
+      "quantity": "500 ml",
+      "price": "24",
+      "description": "A trusted Tamil Nadu government dairy product, Aavin milk is known for its consistent quality.",
+      "vendor_id": 104
+    },
+    {
+      "id": 5,
+      "name": "Green Gold Milk",
+      "type": "milk",
+      "quantity": "1 litre",
+      "price": "45",
+      "description": "Organic and farm-fresh milk from Green Gold, perfect for health-conscious consumers.",
+      "vendor_id": 105
+    },
+    {
+      "id": 6,
+      "name": "Tropicana Orange",
+      "type": "juice",
+      "quantity": "1 litre",
+      "price": "110",
+      "description": "Tropicana's 100% orange juice with no added sugar, packed with Vitamin C.",
+      "vendor_id": 101
+    },
+    {
+      "id": 7,
+      "name": "Maaza Mango",
+      "type": "juice",
+      "quantity": "600 ml",
+      "price": "35",
+      "description": "Classic mango drink with real mango pulp, a refreshing summer favorite.",
+      "vendor_id": 102
+    },
+    {
+      "id": 8,
+      "name": "Real Mixed Fruit",
+      "type": "juice",
+      "quantity": "1 litre",
+      "price": "99",
+      "description": "A delicious blend of multiple fruits, Real Mixed Fruit juice is a nutrient-rich beverage.",
+      "vendor_id": 103
+    },
+    {
+      "id": 9,
+      "name": "Minute Maid Apple",
+      "type": "juice",
+      "quantity": "500 ml",
+      "price": "55",
+      "description": "Refreshing apple juice from Minute Maid, made with real fruit extract.",
+      "vendor_id": 104
+    },
+    {
+      "id": 10,
+      "name": "Nestle Dahi",
+      "type": "curd",
+      "quantity": "400 g",
+      "price": "30",
+      "description": "Creamy and smooth curd from Nestle, rich in probiotics and calcium.",
+      "vendor_id": 105
+    },
+    {
+      "id": 11,
+      "name": "Amul Ghee",
+      "type": "ghee",
+      "quantity": "500 ml",
+      "price": "270",
+      "description": "Pure and aromatic ghee from Amul, made from cow’s milk – ideal for cooking and rituals.",
+      "vendor_id": 101
+    },
+    {
+      "id": 12,
+      "name": "Aavin Butter",
+      "type": "butter",
+      "quantity": "100 g",
+      "price": "50",
+      "description": "Creamy butter from Aavin, perfect for spreading, baking, and cooking.",
+      "vendor_id": 102
+    },
+      {
+        "id": 13,
+        "name": "Arokya Curd",
+        "type": "curd",
+        "quantity": "400 g",
+        "price": "28",
+        "description": "Thick and wholesome curd from Arokya, perfect for daily consumption.",
+        "vendor_id": 106
+      },
+      {
+        "id": 14,
+        "name": "Amul Cheese Slices",
+        "type": "cheese",
+        "quantity": "200 g",
+        "price": "95",
+        "description": "Soft and tasty cheese slices by Amul, ideal for sandwiches and burgers.",
+        "vendor_id": 107
+      },
+      {
+        "id": 15,
+        "name": "Aavin Paneer",
+        "type": "paneer",
+        "quantity": "200 g",
+        "price": "75",
+        "description": "Fresh and soft paneer made from pure milk, suitable for all paneer recipes.",
+        "vendor_id": 108
+      },
+      {
+        "id": 16,
+        "name": "Nestle Slim Milk",
+        "type": "milk",
+        "quantity": "1 litre",
+        "price": "50",
+        "description": "Low-fat milk from Nestle, a healthy choice for fitness enthusiasts.",
+        "vendor_id": 109
+      },
+      {
+        "id": 17,
+        "name": "Mother Dairy Lassi",
+        "type": "lassi",
+        "quantity": "200 ml",
+        "price": "20",
+        "description": "Sweet and refreshing lassi, perfect for cooling down in summer.",
+        "vendor_id": 110
+      },
+      {
+        "id": 18,
+        "name": "Real Pomegranate Juice",
+        "type": "juice",
+        "quantity": "1 litre",
+        "price": "120",
+        "description": "Rich and refreshing juice made from real pomegranates.",
+        "vendor_id": 101
+      },
+      {
+        "id": 19,
+        "name": "Amul Cream",
+        "type": "cream",
+        "quantity": "250 ml",
+        "price": "65",
+        "description": "Fresh cream ideal for desserts, curries, and soups.",
+        "vendor_id": 102
+      },
+      {
+        "id": 20,
+        "name": "Aavin Ghee",
+        "type": "ghee",
+        "quantity": "500 ml",
+        "price": "260",
+        "description": "Premium ghee from Aavin with traditional taste and aroma.",
+        "vendor_id": 103
+      },
+      {
+        "id": 21,
+        "name": "Tropicana Mixed Fruit",
+        "type": "juice",
+        "quantity": "1 litre",
+        "price": "105",
+        "description": "Blend of various fruits for a nutritious juice experience.",
+        "vendor_id": 104
+      },
+      {
+        "id": 22,
+        "name": "Nandini Milk",
+        "type": "milk",
+        "quantity": "500 ml",
+        "price": "22",
+        "description": "Pasteurized milk from Karnataka-based Nandini brand.",
+        "vendor_id": 105
+      },
+      {
+        "id": 23,
+        "name": "Milky Mist Paneer",
+        "type": "paneer",
+        "quantity": "200 g",
+        "price": "70",
+        "description": "High-protein paneer perfect for grilling and cooking.",
+        "vendor_id": 106
+      },
+      {
+        "id": 24,
+        "name": "Amul Masti Buttermilk",
+        "type": "buttermilk",
+        "quantity": "200 ml",
+        "price": "15",
+        "description": "Refreshing and lightly salted buttermilk from Amul.",
+        "vendor_id": 107
+      },
+      {
+        "id": 25,
+        "name": "Nestle Yogurt",
+        "type": "curd",
+        "quantity": "150 g",
+        "price": "25",
+        "description": "Smooth fruit-flavored yogurt from Nestle, a healthy snack.",
+        "vendor_id": 108
+      },
+      {
+        "id": 26,
+        "name": "Britannia Cheese Block",
+        "type": "cheese",
+        "quantity": "200 g",
+        "price": "90",
+        "description": "Solid block cheese suitable for shredding or slicing.",
+        "vendor_id": 109
+      },
+      {
+        "id": 27,
+        "name": "Aavin Curd",
+        "type": "curd",
+        "quantity": "500 g",
+        "price": "32",
+        "description": "High-quality curd with creamy texture, ideal for cooking and eating.",
+        "vendor_id": 110
+      },
+      {
+        "id": 28,
+        "name": "Mother Dairy Milk",
+        "type": "milk",
+        "quantity": "500 ml",
+        "price": "26",
+        "description": "Standardized milk with good taste and shelf life.",
+        "vendor_id": 101
+      },
+      {
+        "id": 29,
+        "name": "Minute Maid Mixed Juice",
+        "type": "juice",
+        "quantity": "1 litre",
+        "price": "100",
+        "description": "Delightful mix of fruits in one refreshing drink.",
+        "vendor_id": 102
+      },
+      {
+        "id": 30,
+        "name": "Aavin Butter 500g",
+        "type": "butter",
+        "quantity": "500 g",
+        "price": "240",
+        "description": "Bulk pack of soft and creamy butter from Aavin.",
+        "vendor_id": 103
+      },
+      {
+        "id": 31,
+        "name": "Nestle Fresh Cream",
+        "type": "cream",
+        "quantity": "250 ml",
+        "price": "60",
+        "description": "Smooth and thick cream for desserts and gravies.",
+        "vendor_id": 104
+      },
+      {
+        "id": 32,
+        "name": "Amul Probiotic Dahi",
+        "type": "curd",
+        "quantity": "400 g",
+        "price": "35",
+        "description": "Curd enriched with probiotics, supports digestive health.",
+        "vendor_id": 105
+      }    
+  ]
+}
